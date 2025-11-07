@@ -1,4 +1,4 @@
-# TAKO — TrackMania Forever Time Attack Knockout Plugin for FAST 3.2
+# TAKO - TrackMania Forever Time Attack Knockout Plugin for FAST 3.2
 
 **TAKO** is a plugin for the [**FAST**](https://github.com/Slig06/Fast3) server controller that turns regular **Time Attack** mode into a knockout competition.  
 After each map, the slowest players are eliminated until only one winner remains.
