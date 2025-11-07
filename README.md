@@ -35,7 +35,7 @@ Use this at the start of your first map.
 
 ### `/tako off`
 Stop a TAKO match.  
-*Note: this does not save the current state. TAKO automatically stops when a winner is chosen.*
+**Warning!** Only use to force tako to turn off. TAKO automatically stops when a winner is chosen.
 
 ### `/tako pause`
 Toggle pause mode.  
